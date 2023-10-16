@@ -20,7 +20,7 @@
       transform: translate(-50%, -50%);
       width: 500px;
       height: 450px;
-      background-color: rgba(0, 0, 0, 0.4);
+      background-color: rgba(0, 0, 0, 0.6);
       border-radius: 10px;
       display: flex;
       flex-direction: column;
@@ -30,7 +30,7 @@
       white-space: normal;
       padding: 30px;
       color: white;
-      backdrop-filter: blur(3px);
+      backdrop-filter: blur(4px);
     }
      .img-button {
       width: 60px;
