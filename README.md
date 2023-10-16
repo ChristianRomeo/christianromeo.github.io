@@ -88,11 +88,10 @@
   <div class="background"></div>
   <div class="overlay">
     <h1>Hi, I'm Chris.</h1>
-    <p>I am <bold>STEM student</bold> pursuing a Double Master Degree in Computer Science, with a special focus on Cyber Security, through the EIT Digital program.<br><br> 
-      My journey has been marked by a relentless curiosity and a genuine enthusiasm for learning, particularly when it comes to tackling complex challenges and staying updated with innovative technologies.<br><br> 
-      As I approach the conclusion of my studies, I am actively seeking a host organization for my upcoming Master's thesis project. 
-      If you're interested in collaborating with a passionate learner who's always ready to explore new horizons, please feel free to get in touch!</p>
-    <div>
+    <p>I am <strong>STEM student</strong> pursuing a Double Master Degree in Computer Science, with a special focus on <strong>Cyber Security</strong>, through the EIT Digital program.<br><br> 
+My journey has been marked by a relentless <strong>curiosity</strong> and a genuine enthusiasm for learning, particularly when it comes to tackling complex challenges and staying updated with <strong>innovative technologies</strong>.<br><br> 
+As I approach the conclusion of my studies, I am actively <strong>seeking</strong> a host organization for my upcoming <strong>Master's thesis</strong> project. If you're <strong>interested</strong> in collaborating with a passionate learner who's always ready to explore new horizons, please feel free to <strong>get in touch!</strong></p>
+    </p><div>
       <button class="img-button" onclick="window.location.href='https://github.com/ChristianRomeo';">
         <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub">
       </button>
