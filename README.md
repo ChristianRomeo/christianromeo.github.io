@@ -66,6 +66,7 @@
     }
     .buttons {
       display: flex;
+      gap: 20px;
     }
     @keyframes pressed {
     0% {
