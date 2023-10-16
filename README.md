@@ -87,9 +87,11 @@
 <body>
   <div class="background"></div>
   <div class="overlay">
-    <h1>I'm Chris.</h1>
-    <p>I'm a software engineer with a passion for building innovative and user-friendly products. I have experience in a variety of programming languages and technologies, including Python, JavaScript, and React. I'm also skilled in cloud computing platforms such as AWS and Azure.<br><br>
-    I'm currently looking for new opportunities to work on challenging and impactful projects. If you're interested in learning more about my work, please feel free to contact me.</p>
+    <h1>Hi, I'm Chris.</h1>
+    <p>I am <bold>STEM student</bold> pursuing a Double Master Degree in Computer Science, with a special focus on Cyber Security, through the EIT Digital program.<br><br> 
+      My journey has been marked by a relentless curiosity and a genuine enthusiasm for learning, particularly when it comes to tackling complex challenges and staying updated with innovative technologies.<br><br> 
+      As I approach the conclusion of my studies, I am actively seeking a host organization for my upcoming Master's thesis project. 
+      If you're interested in collaborating with a passionate learner who's always ready to explore new horizons, please feel free to get in touch!</p>
     <div>
       <button class="img-button" onclick="window.location.href='https://github.com/ChristianRomeo';">
         <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub">
