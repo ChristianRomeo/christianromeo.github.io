@@ -79,6 +79,9 @@
     100% {
     transform: scale(0.5);
   }
+  p {
+  font-family: 'Khula ExtraBold', sans-serif;
+  }
   </style>
 </head>
 <body>
