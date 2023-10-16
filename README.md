@@ -28,6 +28,7 @@
       align-items: center;
       z-index: 1;
       white-space: normal;
+      color: white;
       padding: 30px;
       backdrop-filter: blur(3px);
     }
